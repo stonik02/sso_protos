@@ -3,7 +3,6 @@
 // - protoc-gen-go-grpc v1.2.0
 // - protoc             v4.22.3
 // source: sso/sso.proto
-
 package sso
 
 import (
