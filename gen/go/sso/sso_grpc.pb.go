@@ -4,10 +4,11 @@
 // - protoc             v4.22.3
 // source: sso/sso.proto
 
-package ssov1
+package sso
 
 import (
 	context "context"
+
 	grpc "google.golang.org/grpc"
 	codes "google.golang.org/grpc/codes"
 	status "google.golang.org/grpc/status"
